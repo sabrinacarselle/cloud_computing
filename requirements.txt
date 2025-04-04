@@ -1,0 +1,12 @@
+# Core dependencies
+pandas
+scikit-learn
+kagglehub
+pickle-mixin
+
+# Azure ML SDK core
+azureml-core
+
+# Optional: useful for compatibility with some packages
+numpy>=1.19,<1.25
+cryptography==41.0.3  # known good version that avoids DLL issues
