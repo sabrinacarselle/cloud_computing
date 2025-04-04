@@ -1,0 +1,14 @@
+# Ignorar entornos virtuales
+venv/
+.env/
+
+# Ignorar archivos de sistema
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Ignorar archivos sensibles o temporales del proyecto
+id.json
+model.pkl
+score.py
+uri.json
