@@ -16,6 +16,7 @@ Este repositorio contiene un flujo completo de Machine Learning para predecir la
 
 * Juan Pablo Sada San Jose 
 
+* Juan Pablo Ramírez Sobrepera
 
 ---
 
